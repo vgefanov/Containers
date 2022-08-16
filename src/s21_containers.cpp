@@ -1,0 +1,8 @@
+#include "classes/s21_list.hpp"
+#include "classes/s21_map.hpp"
+#include "classes/s21_queue.hpp"
+#include "classes/s21_set.hpp"
+#include "classes/s21_stack.hpp"
+#include "classes/s21_vector.hpp"
+#include "classes/s21_array.hpp"
+#include "classes/s21_multiset.hpp"
